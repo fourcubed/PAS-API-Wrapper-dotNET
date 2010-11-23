@@ -1,0 +1,40 @@
+﻿* {
+    margin: 0 auto;
+}
+
+body {
+    background-color: #B5B6AD;
+}
+
+p 
+{
+	padding: .3em;
+}
+
+#content 
+{
+	margin-top: 2em;
+    width: 960px;
+    padding: 1em;
+    background-color: #FFFFFF;
+    min-height: 785px;
+}
+
+#sidebar 
+{
+	font-size: small;
+    float: right;
+    width: 375px;
+}
+
+#main {
+    margin-right: 375px;
+}
+
+#results 
+{
+	border: solid thin black;
+	height: 600px;
+	width: 550px;
+	overflow: scroll;
+}
